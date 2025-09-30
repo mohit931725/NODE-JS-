@@ -8,7 +8,8 @@
 ![Description of image]<img width="646" height="290" alt="image" src="https://github.com/user-attachments/assets/f16b25fc-050a-4adb-b5b0-8fe01ca3a91e" />
 
 
-![Description of image]<img width="652" height="257" alt="image" src="https://github.com/user-attachments/assets/cd4a1fac-f332-4b38-a4f7-062d2632f341" />
+![Description of image]<img width="652" height="257" alt="image" src="https://github.com/user-attachments/assets/1cbc9adb-59b6-4500-9e32-431d38138008" />
+
 
 
 # 4.2-Node.js
